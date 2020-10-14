@@ -21,3 +21,5 @@ This method selects a subset of words that seeks to retain the most important po
 **Abstractive:**
 
 This method is newer and less used than extractive. It selects words based on semantic understanding and attempts to produce material in new ways. It uses deep learning techniques to generate shorter texts that convey the most important parts of the original text.
+
+### To review the project overview, visualizations, and results, please refer to the [Slide Presentation](). For the data, project code, and detailed NLP machine learning walkthrough, refer to the [Jupyter Notebook]().
